@@ -49,7 +49,7 @@ global.publicX  = true   // false = self mode
 Buat file baru di `plugins/namafitur.js`:
 
 ```js
-exports.command = ['cmd', 'cmdd']
+exports.command = ['cmd']
 exports.tags    = ['kategori']
 exports.desc    = 'Deskripsi'
 
