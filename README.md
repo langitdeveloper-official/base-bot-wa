@@ -1,4 +1,4 @@
-# 🤖 Mahiru Base — WhatsApp Bot
+# 🤖 Mahiru Base — Bot Whatsapp
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Node](https://img.shields.io/badge/Node.js-20.x-green)
@@ -6,7 +6,7 @@
 ![By](https://img.shields.io/badge/by-LangitDev-purple)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot-25D366)
 
-**Base Bot WhatsApp** yang dirancang modern dengan sistem **plugin** dan **case**. Mudah dikembangkan, ringan, dan siap pakai untuk berbagai keperlua
+**Base Bot WhatsApp** yang dirancang modern dengan sistem **plugin** dan **case**. Mudah dikembangkan, ringan, dan siap pakai untuk berbagai keperluan
 
 ---
 
